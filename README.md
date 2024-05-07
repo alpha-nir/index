@@ -1,4 +1,8 @@
-# index
-This is my first Git Repository
-<br>
-Author - Niram Sharma
+<html>
+  <head>
+    <title>Git Repo</title>
+  </head>
+  <body>
+    hello world
+  </body>
+</html>
